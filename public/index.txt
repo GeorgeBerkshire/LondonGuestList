@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- ✅ SEO START -->
+    <title>London Guestlist — Mayfair Club Guest List & VIP Tables</title>
+    <meta name="description" content="London Guestlist: fast entry to top Mayfair clubs, free lists for girls, VIP tables & same-day bookings." />
+    <link rel="canonical" href="https://londonguestlist.co.uk/" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="London Guestlist — Mayfair Club Guest List & VIP Tables" />
+    <meta property="og:description" content="Fast entry to top Mayfair clubs. Free lists for girls, VIP tables & same-day bookings." />
+    <meta property="og:url" content="https://londonguestlist.co.uk/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://londonguestlist.co.uk/logo.png" />
+
+    <!-- JSON-LD schema -->
+    <script type="application/ld+json">
+    {
+      "@context":"https://schema.org",
+      "@type":"Organization",
+      "name":"London Guestlist",
+      "url":"https://londonguestlist.co.uk/",
+      "logo":"https://londonguestlist.co.uk/logo.png"
+    }
+    </script>
+    <!-- ✅ SEO END -->
+
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
+
